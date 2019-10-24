@@ -3,4 +3,4 @@ def two_fer(name="you"):
     if name == "Alice":
         return f"One for Alice, one for me."
     else:
-        return f"One for {name}, one for me!!!"
+        return f"One for {name!!!"
